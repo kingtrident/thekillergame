@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+     <head>
+        <title> The Killer Game</title>
+    </head>
+    <body>
+     <h1> Description</h1>
+<p> The Killer Game is a club dedicated to playing a mafia-based forum game found on a youtube channel </p>
+     <a href= "https://www.youtube.com/channel/UC2KpFcpMiYXaomrhQEtx5Mw"> </a>
+        <div>
+        </div>
+     <a href= "registration.html">click here to go to the narrator registration</a>
+        <img src="tkg.jpeg">
+        
+        
+        
+        
+ <p><abbr title="why u do this RAR">Hover over this RAR</abbr></p>       
+     <p>
+      goldenwriter, founder of the killer game club. also i made this website :)
+     </p>
+ 
+ </body>
+</html>
